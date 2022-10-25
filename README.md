@@ -9,3 +9,5 @@ https://www.securityweek.com/facebook-twitter-take-down-more-state-linked-accoun
 https://www.securityweek.com/report-mexico-continued-use-spyware-against-activists
 
 https://r3d.mx/2022/10/18/el-diputado-de-oposicion-agustin-basave-alanis-fue-espiado-con-pegasus-confirma-citizen-lab/
+
+https://www.nytimes.com/2022/10/06/world/americas/mexico-hack-government-military.html
